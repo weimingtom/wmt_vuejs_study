@@ -13,3 +13,7 @@ My Vue.js study
 * search baidupan, 基于weui的移动商城html5模板  
 * download.csdn.net/download/yz815/10591960  
 * base on jQuery WEUI    
+
+## vum, vue-mobile     
+https://github.com/vum-team/vum  
+http://demo.getvum.com  
