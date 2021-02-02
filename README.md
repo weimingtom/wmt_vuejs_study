@@ -8,3 +8,8 @@ My Vue.js study
 
 ## old project with ionic    
 * search baidupan, WebstormProjects.rar  
+
+## 基于weui的移动商城html5模板  
+* search baidupan, 基于weui的移动商城html5模板  
+* download.csdn.net/download/yz815/10591960  
+* base on jQuery WEUI    
