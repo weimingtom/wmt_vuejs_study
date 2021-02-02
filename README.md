@@ -6,3 +6,5 @@ My Vue.js study
 * origin, https://nirongxu.github.io/vue-xuAdmin/dist/  
 * 绿色版, search baidupan, sys2x.rar  
 
+## old project with ionic    
+* search baidupan, WebstormProjects.rar  
