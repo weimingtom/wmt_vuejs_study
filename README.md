@@ -21,3 +21,5 @@ http://demo.getvum.com
 ## jquery-weui  
 https://github.com/lihongxun945/jquery-weui  
 https://gitee.com/edik/jquery-weui  
+
+## search baidupan, html5登陆页面  
