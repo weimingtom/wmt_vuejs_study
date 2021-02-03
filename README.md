@@ -23,3 +23,6 @@ https://github.com/lihongxun945/jquery-weui
 https://gitee.com/edik/jquery-weui  
 
 ## search baidupan, html5登陆页面  
+
+## ionic 原生插件列表    
+http://www.ionic.wang/native_doc-index-id-283.html  
