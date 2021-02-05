@@ -26,3 +26,6 @@ https://gitee.com/edik/jquery-weui
 
 ## ionic 原生插件列表    
 http://www.ionic.wang/native_doc-index-id-283.html  
+
+## photos jfinal  
+search baidupan, company_admin_upload.rar  
