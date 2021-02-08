@@ -30,3 +30,6 @@ http://www.ionic.wang/native_doc-index-id-283.html
 ## photos jfinal  
 search baidupan, company_admin_upload.rar  
 see https://github.com/caryhgq/wxPhotos  
+
+## sui  
+https://sui.thinkadmin.top  
