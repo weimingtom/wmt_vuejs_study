@@ -33,3 +33,6 @@ see https://github.com/caryhgq/wxPhotos
 
 ## sui  
 https://sui.thinkadmin.top  
+
+## FastClick  
+https://github.com/ftlabs/fastclick  
