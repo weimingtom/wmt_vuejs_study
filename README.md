@@ -19,8 +19,10 @@ https://github.com/vum-team/vum
 http://demo.getvum.com  
 
 ## jquery-weui  
+http://jqweui.com/dist/demos/  
 https://github.com/lihongxun945/jquery-weui  
 https://gitee.com/edik/jquery-weui  
+https://github.com/lihongxun945/jquery-weui/tree/gh-pages  
 
 ## search baidupan, html5登陆页面  
 
