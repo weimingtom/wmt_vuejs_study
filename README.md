@@ -41,3 +41,7 @@ https://github.com/ftlabs/fastclick
 
 ## Layer For Mobile  
 https://layer.layui.com/mobile/  
+
+## 魔改jqweui uploader上传控件  
+* search baidupan, jquasp_v7_remove_vuesvr.rar  
+* 
