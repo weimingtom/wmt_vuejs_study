@@ -45,3 +45,7 @@ https://layer.layui.com/mobile/
 ## 魔改jqweui uploader上传控件  
 * search baidupan, jquasp_v7_remove_vuesvr.rar  
 
+## weui for work, 企业微信样式库    
+https://work.weixin.qq.com/api/doc/90000/90138/90305  
+https://www.cnblogs.com/wuhuacong/p/12553168.html  
+
