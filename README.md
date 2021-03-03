@@ -52,3 +52,10 @@ https://www.cnblogs.com/wuhuacong/p/12553168.html
 ## 登录页  
 https://github.com/search?q=忘记密码+jquery+weui&type=code  
 
+## 仿钉钉界面库  
+钉钉H5微应用  
+https://developers.dingtalk.com/document/app/develop-org-h5-micro-applications  
+H5微应用示例工程  
+https://github.com/open-dingtalk/h5app-corp-quickstart  
+antd mobile  
+http://mobile.ant.design/kitchen-sink/  
