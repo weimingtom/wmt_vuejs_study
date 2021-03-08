@@ -61,5 +61,11 @@ antd mobile
 http://mobile.ant.design/kitchen-sink/  
 
 ## vue onclick  
-target->currentTarget  
-v-on:click->v-on:click.stop  
+正确的dataset获取: target->currentTarget  
+阻止冒泡: v-on:click->v-on:click.stop  
+```
+v-bind:data-id="obj.id" v-on:click="viewItem($event)"  
+viewItem: function(event) {}  
+console.log(event.currentTarget.dataset.id);  
+```
+
