@@ -59,3 +59,7 @@ H5微应用示例工程
 https://github.com/open-dingtalk/h5app-corp-quickstart  
 antd mobile  
 http://mobile.ant.design/kitchen-sink/  
+
+## vue onclick  
+target->currentTarget  
+v-on:click->v-on:click.stop  
