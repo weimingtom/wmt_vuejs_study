@@ -85,3 +85,6 @@ https://github.com/youzan/vant
 ## lightyear  
 https://gitee.com/yinqi/Light-Year-Admin-Template  
 http://lyear.itshubao.com  
+
+## vant weapp version  
+https://vant-contrib.gitee.io/vant-weapp/#/home  
