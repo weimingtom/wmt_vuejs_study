@@ -88,3 +88,6 @@ http://lyear.itshubao.com
 
 ## vant weapp version  
 https://vant-contrib.gitee.io/vant-weapp/#/home  
+
+## uniapp-demo  
+https://github.com/czl0325/uniapp-demo  
