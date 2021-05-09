@@ -91,3 +91,6 @@ https://vant-contrib.gitee.io/vant-weapp/#/home
 
 ## uniapp-demo  
 https://github.com/czl0325/uniapp-demo  
+
+## kwswitch, iot platform, with Vue  
+https://github.com/kerwincui/kwswitch  
