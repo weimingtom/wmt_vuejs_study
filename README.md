@@ -94,3 +94,7 @@ https://github.com/czl0325/uniapp-demo
 
 ## kwswitch, iot platform, with Vue  
 https://github.com/kerwincui/kwswitch  
+
+## 若依 Vue + Element 快速开发平台  
+https://gitee.com/y_project/RuoYi-Vue  
+https://gitee.com/y_project/RuoYi-Cloud  
