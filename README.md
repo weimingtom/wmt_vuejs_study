@@ -99,3 +99,7 @@ https://github.com/kerwincui/kwswitch
 https://gitee.com/y_project/RuoYi-Vue  
 https://gitee.com/y_project/RuoYi-Cloud  
 http://doc.ruoyi.vip/ruoyi/  
+
+## wuyuan, SQL  
+无远开发平台（Enhancer）专业的一站式开发平台  
+https://samples.wuyuan.io  
