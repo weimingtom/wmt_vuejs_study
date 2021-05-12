@@ -30,6 +30,7 @@ https://github.com/lihongxun945/jquery-weui/tree/gh-pages
 http://www.ionic.wang/native_doc-index-id-283.html  
 
 ## photos jfinal, 替换原本的nodejs后端，用jfinal实现小程序相册wxPhotos的后端    
+**（TODO) 管理后台前端用vue 2.x实现，未完成**    
 search baidupan, company_admin_upload.rar  
 see https://github.com/caryhgq/wxPhotos  
 (**TODO**) 开源后端和前端代码  
