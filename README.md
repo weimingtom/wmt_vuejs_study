@@ -29,9 +29,10 @@ https://github.com/lihongxun945/jquery-weui/tree/gh-pages
 ## ionic 原生插件列表    
 http://www.ionic.wang/native_doc-index-id-283.html  
 
-## photos jfinal  
+## photos jfinal, 替换原本的nodejs后端，用jfinal实现小程序相册wxPhotos的后端    
 search baidupan, company_admin_upload.rar  
 see https://github.com/caryhgq/wxPhotos  
+(**TODO**) 开源后端和前端代码  
 
 ## sui  
 https://sui.thinkadmin.top  
