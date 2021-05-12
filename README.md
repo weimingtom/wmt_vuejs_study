@@ -1,6 +1,11 @@
 # wmt_vuejs_study
 My Vue.js study
 
+## TODO  
+see company_admin_upload.rar    
+学习微服务技术和vue3，众所周知前端vue的ES2015是在写前端Java语言  
+又总所周知, 写Java后端是只有自己看得懂，别人看不懂，很让人难受，但没办法，人只需要活着  
+
 ## vue-xuAdmin  
 使用井作为切换跳转的vue.js网站示例    
 * origin, https://nirongxu.github.io/vue-xuAdmin/dist/  
