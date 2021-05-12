@@ -103,3 +103,6 @@ http://doc.ruoyi.vip/ruoyi/
 ## wuyuan, SQL  
 无远开发平台（Enhancer）专业的一站式开发平台  
 https://samples.wuyuan.io  
+
+## air-conditioner  
+https://github.com/YunYouJun/air-conditioner  
