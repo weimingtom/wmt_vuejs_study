@@ -164,3 +164,7 @@ https://github.com/emqx/emqx
 
 ## Naive UI, 一个 Vue 3 组件库    
 https://github.com/TuSimple/naive-ui/blob/main/README.zh-CN.md  
+
+## wangEditor V4  
+Typescript 开发的 Web 富文本编辑器， 轻量、简洁、易用、开源免费  
+https://www.wangeditor.com  
