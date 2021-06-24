@@ -134,3 +134,6 @@ https://github.com/anncwb/vue-vben-admin
 
 ## Vue.js+Node.js开发实战：从入门到项目上线  
 http://www.hzcourse.com/web/refbook/detail/9296/208  
+
+## Spring Cloud Alibaba 致力于提供微服务开发的一站式解决方案  
+https://github.com/alibaba/spring-cloud-alibaba/blob/master/README-zh.md  
