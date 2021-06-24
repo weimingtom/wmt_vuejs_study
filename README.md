@@ -148,3 +148,6 @@ http://w3c0.com
 
 ## Coursera: HTML, CSS and Javascript for Web Developers  
 https://github.com/jhu-ep-coursera/fullstack-course4  
+
+## An open-source big data platform designed and optimized for the Internet of Things (IoT).  
+https://github.com/taosdata/TDengine  
