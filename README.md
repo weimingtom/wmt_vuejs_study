@@ -155,3 +155,9 @@ https://github.com/taosdata/TDengine
 ## mqttx
 https://mqttx.app  
 https://wiki.seeedstudio.com/Use_MQTT_to_remotely_light_up_LED_lights/  
+emqx  
+https://www.jianshu.com/p/79512067216f  
+https://www.emqx.cn/downloads#broker  
+https://www.emqx.cn/downloads#enterprise  
+emqx  
+https://github.com/emqx/emqx  
