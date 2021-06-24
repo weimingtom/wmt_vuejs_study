@@ -131,3 +131,6 @@ https://github.com/taowen/awesome-lowcode
 ## Vue Vben Admin 是一个免费开源的中后台模版。  
 使用了最新的vue3,vite2,TypeScript等主流技术开发，开箱即用的中后台前端解决方案，也可用于学习参考。  
 https://github.com/anncwb/vue-vben-admin  
+
+## Vue.js+Node.js开发实战：从入门到项目上线  
+http://www.hzcourse.com/web/refbook/detail/9296/208  
