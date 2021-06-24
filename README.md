@@ -137,3 +137,8 @@ http://www.hzcourse.com/web/refbook/detail/9296/208
 
 ## Spring Cloud Alibaba 致力于提供微服务开发的一站式解决方案  
 https://github.com/alibaba/spring-cloud-alibaba/blob/master/README-zh.md  
+
+## 703331 自己动手设计物联网.pdf  
+https://download.csdn.net/download/qq_36174036/18457782  
+http://phodal.github.io/designiot/  
+https://github.com/phodal/iot-code  
