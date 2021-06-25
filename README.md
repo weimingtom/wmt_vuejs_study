@@ -1,5 +1,5 @@
 # wmt_vuejs_study
-My Vue.js study (include IoT)  
+My Vue.js study (include IoT, front-end)  
 
 ## TODO  
 see company_admin_upload.rar    
