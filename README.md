@@ -168,3 +168,9 @@ https://github.com/TuSimple/naive-ui/blob/main/README.zh-CN.md
 ## wangEditor V4  
 Typescript 开发的 Web 富文本编辑器， 轻量、简洁、易用、开源免费  
 https://www.wangeditor.com  
+
+## server-config.wsdd配置一例  
+https://blog.csdn.net/ckf53390/article/details/7270074  
+WebService核心文件【server-config.wsdd】详解及调用示例  
+https://blog.csdn.net/yangwenxue_admin/article/details/45167817  
+
