@@ -174,3 +174,5 @@ https://blog.csdn.net/ckf53390/article/details/7270074
 WebService核心文件【server-config.wsdd】详解及调用示例  
 https://blog.csdn.net/yangwenxue_admin/article/details/45167817  
 
+## internet-pi  
+https://github.com/geerlingguy/internet-pi  
