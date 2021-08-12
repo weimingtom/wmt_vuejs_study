@@ -182,3 +182,9 @@ https://github.com/sudheerj/reactjs-interview-questions
 
 ## reactjs-interview-questions  
 https://github.com/sudheerj/reactjs-interview-questions  
+
+## Solid is a declarative JavaScript library for creating user interfaces  
+https://github.com/solidjs/solid  
+
+## Cross-platform .NET sample microservices and container  
+https://github.com/dotnet-architecture/eShopOnContainers  
