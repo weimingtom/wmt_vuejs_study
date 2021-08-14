@@ -202,3 +202,6 @@ https://github.com/luichooy/vue-antd-pro
 
 ## ElectroServer  
 search baidupan, ElectroServer  
+
+## EVUE 全称 Embedded Vue，是一套面向物联网的小程序开发框架，类似VUE的开发方式，全面兼容鸿蒙HML语法，极速提升开发效率。  
+https://github.com/jangocheng/evue  
