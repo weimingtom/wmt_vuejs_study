@@ -6,6 +6,9 @@ My Vue.js study (include IoT, front-end, back-end)
 相册小程序  
 移植到vue上  
 
+* (IMP) htdocs_v1.rar  
+nanamichan  
+
 * (out of date)  
 see company_admin_upload.rar    
 学习微服务技术和vue3，众所周知前端vue的ES2015是在写前端Java语言  
