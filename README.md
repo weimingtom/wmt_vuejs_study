@@ -9,6 +9,9 @@ My Vue.js study (include IoT, front-end, back-end)
 * (IMP) htdocs_v1.rar  
 nanamichan  
 
+* (IMP) vue_树莓派运行_v3.rar  
+see Vue.js+Node.js开发实战：从入门到项目上线   
+
 * (out of date)  
 see company_admin_upload.rar    
 学习微服务技术和vue3，众所周知前端vue的ES2015是在写前端Java语言  
