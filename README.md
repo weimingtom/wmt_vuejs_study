@@ -16,3 +16,7 @@ see Vue.js+Node.js开发实战：从入门到项目上线
 see company_admin_upload.rar    
 学习微服务技术和vue3，众所周知前端vue的ES2015是在写前端Java语言  
 又总所周知, 写Java后端是只有自己看得懂，别人看不懂，很让人难受，但没办法，人只需要活着  
+
+* (TODO) appfuse  
+http://www.ligerui.com/demo.html  
+extjs/dojo/yui  
