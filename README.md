@@ -20,3 +20,54 @@ see company_admin_upload.rar
 * (TODO) appfuse  
 http://www.ligerui.com/demo.html  
 extjs/dojo/yui  
+
+## CRM  
+* https://www.layui.com  
+
+* 悟空CRM  
+https://www.72crm.com  
+https://github.com/zk25796/wukongcrm-72crm-java  
+https://github.com/867843419/wukong  
+
+* 72CRM官方  
+https://github.com/72wukong  
+https://github.com/72wukong/72crm-11.0-web-PHP  
+search baidupan, wukongcrm-72crm-java-master.zip  
+https://gitee.com/wukongcrm/crm_pro  
+
+* fastadmin  
+https://gitee.com/karson/fastadmin?_from=gitee_search  
+https://www.fastadmin.net/  
+
+* layui.use oa  
+https://github.com/search?l=PHP&p=2&q=layui.use+table&type=Code  
+https://github.com/1744893693/oa  
+CLTPHP5.8内容管理系统  
+https://github.com/lihaijiang123/activity_admin  
+https://gitee.com/chichu/cltphp  
+https://github.com/cltphp/cltphp  
+
+* 信呼  
+https://github.com/github188/mycms  
+https://github.com/search?q=indexmenuss+icon-reorder&type=Code  
+https://github.com/gouwenyu/xinhuDemo/tree/master  
+信呼协同办公OA系统  
+http://demo.rockoa.com/?m=login  
+http://www.rockoa.com/index.html  
+https://gitee.com/rainrock/xinhu  
+https://github.com/rainrocka/xinhu  
+
+* jeecg  
+https://github.com/little-fatter/sanhu/blob/master/SanHu.Regulatory.Platform/FastDev.RunWeb/wwwroot/Contents/windows/css/main.css  
+https://github.com/yuzhucu/jeecg  
+https://github.com/xiaoqingyao/website  
+https://github.com/weiboyaya/springBoot  
+https://github.com/luocong2013/xyoa  
+https://github.com/loveyuxiang/JavaScript----demo3/tree/master/懒人图库--JS  
+https://github.com/gp15237125756/FormDesigner  
+https://github.com/1005658368/crm  
+https://github.com/abocode/jfaster  
+https://github.com/tom1120/iot  
+https://github.com/zhangdaiscott/jeewx  
+http://www.jeecg.com  
+https://github.com/jeecgboot/jeecg-boot  
