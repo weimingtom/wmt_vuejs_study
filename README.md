@@ -21,8 +21,11 @@ see company_admin_upload.rar
 http://www.ligerui.com/demo.html  
 extjs/dojo/yui  
 
-## nw.js  
-https://github.com/weimingtom/mang/tree/wmt  
+## (TODO) weapp->vue.js  
+* https://github.com/caryhgq/wxPhotos  
+
+## (TODO) nw.js  
+* https://github.com/weimingtom/mang/tree/wmt  
 
 ## CRM  
 * https://www.layui.com  
