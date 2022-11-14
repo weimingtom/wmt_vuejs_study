@@ -90,7 +90,7 @@ https://github.com/jeecgboot/jeecg-boot
 ## eui, reactjs  
 * https://github.com/elastic/eui  
 
-## web destop  
+## web desktop  
 * https://github.com/kalcaddle/KodExplorer  
 * https://kodcloud.com  
 * http://demo.hteos.com  
