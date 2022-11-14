@@ -89,3 +89,10 @@ https://github.com/jeecgboot/jeecg-boot
 
 ## eui, reactjs  
 * https://github.com/elastic/eui  
+
+## web destop  
+* https://github.com/kalcaddle/KodExplorer  
+* https://kodcloud.com  
+* http://demo.hteos.com  
+* https://webix.com/download/  
+* https://github.com/joni2back/angular-filemanager  
