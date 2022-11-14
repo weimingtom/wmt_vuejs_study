@@ -99,3 +99,14 @@ https://github.com/jeecgboot/jeecg-boot
 
 ## muse-ui  
 * https://github.com/museui/muse-ui  
+
+## mobile vue ui  
+* https://dev.dcloud.net.cn/mui/  
+* https://elastic.github.io/eui/#/  
+* https://gitee.com/vant-contrib/vant/  
+* https://element.eleme.cn/#/zh-CN  
+* https://gitee.com/mirrors/cube-ui  
+* https://didi.github.io/cube-ui/example/#/scroll/default  
+* https://github.com/elastic/eui  
+* http://mint-ui.github.io/#!/zh-cn  
+* https://vux.li  
