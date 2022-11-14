@@ -96,3 +96,6 @@ https://github.com/jeecgboot/jeecg-boot
 * http://demo.hteos.com  
 * https://webix.com/download/  
 * https://github.com/joni2back/angular-filemanager  
+
+## muse-ui  
+* https://github.com/museui/muse-ui  
