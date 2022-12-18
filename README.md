@@ -86,6 +86,7 @@ https://github.com/jeecgboot/jeecg-boot
 
 ## admin  
 * https://github.com/xuxuxu-ni/vue-xuAdmin  
+* https://github.com/xiaoxian521/vue-pure-admin  
 
 ## eui, reactjs  
 * https://github.com/elastic/eui  
