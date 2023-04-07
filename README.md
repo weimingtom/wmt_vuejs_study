@@ -111,3 +111,6 @@ https://github.com/jeecgboot/jeecg-boot
 * https://github.com/elastic/eui  
 * http://mint-ui.github.io/#!/zh-cn  
 * https://vux.li  
+
+## redis高频40问  
+* https://segmentfault.com/a/1190000043591321  
