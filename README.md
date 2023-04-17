@@ -77,6 +77,7 @@ https://github.com/tom1120/iot
 https://github.com/zhangdaiscott/jeewx  
 http://www.jeecg.com  
 https://github.com/jeecgboot/jeecg-boot  
+https://gitee.com/weimingtom2000/psi  
 
 ## nodejs  
 * https://github.com/eggjs/egg  
