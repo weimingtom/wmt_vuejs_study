@@ -118,3 +118,7 @@ https://gitee.com/weimingtom2000/psi
 
 ## Android  
 * https://gitee.com/yubo725/FlutterOSC  
+
+## vue-admin-template  
+* https://github.com/PanJiaChen/vue-admin-template  
+* https://gitee.com/lunaosmanthus/japanese-word-card-back  
