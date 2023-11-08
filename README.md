@@ -122,3 +122,12 @@ https://gitee.com/weimingtom2000/psi
 ## vue-admin-template  
 * https://github.com/PanJiaChen/vue-admin-template  
 * https://gitee.com/lunaosmanthus/japanese-word-card-back  
+
+## weapp-locally, 小程序模板, weapp  
+* https://github.com/zce/weapp-locally
+
+## Android bottom bar menu  
+* https://github.com/vejei/BottomNavigationBar
+* https://github.com/Dinesh2510/Bottom-Navigation-Bar-with-Bottom-Sheet-in-android-  
+need to migrate to androidx and google material
+
