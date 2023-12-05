@@ -135,3 +135,6 @@ need to migrate to androidx and google material
 * https://github.com/kalcaddle/KodExplorer
 * https://kodcloud.com/explorer/download/
 * https://github.com/kalcaddle/kodbox
+* https://gitee.com/kalcaddle/KODExplorer
+* https://demo.kodcloud.com  
+
