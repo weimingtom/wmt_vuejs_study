@@ -138,3 +138,6 @@ need to migrate to androidx and google material
 * https://gitee.com/kalcaddle/KODExplorer
 * https://demo.kodcloud.com  
 
+## gradle  
+* distributionUrl=https://mirrors.cloud.tencent.com/gradle/gradle-4.7-all.zip  
+* https://blog.csdn.net/youngwah292/article/details/110734407  
