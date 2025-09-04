@@ -147,3 +147,7 @@ need to migrate to androidx and google material
 
 ## wordpress  
 * https://github.com/wordpress-mobile/WordPress-Android  
+
+## eruda, mobile web page debugger
+* https://github.com/liriliri/eruda
+* https://github.com/prayone/pdf-vue
