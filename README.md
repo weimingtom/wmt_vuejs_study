@@ -157,3 +157,6 @@ need to migrate to androidx and google material
 
 ## PDF.JS
 * https://github.com/prayone/pdf-vue/blob/main/src/views/esign/index.vue
+
+## asp
+* web_v3_删除图片之前.rar
