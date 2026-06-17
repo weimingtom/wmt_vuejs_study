@@ -24,7 +24,7 @@ extjs/dojo/yui
 ## (TODO) weapp->vue.js  
 * https://github.com/caryhgq/wxPhotos  
 
-## (TODO) nw.js  
+## (TODO) nw.js, 文件管理器  
 * https://github.com/weimingtom/mang/tree/wmt  
 
 ## CRM  
