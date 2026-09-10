@@ -162,3 +162,6 @@ need to migrate to androidx and google material
 * web_v3_删除图片之前.rar
 * https://github.com/weimingtom/wmt_incubator
 
+## jquery weui
+* https://github.com/lihongxun945/jquery-weui
+* https://weimingtom.github.io/jquery-weui/dist/demos/
