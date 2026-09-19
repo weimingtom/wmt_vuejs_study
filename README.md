@@ -165,3 +165,7 @@ need to migrate to androidx and google material
 ## jquery weui
 * https://github.com/lihongxun945/jquery-weui
 * https://weimingtom.github.io/jquery-weui/dist/demos/
+
+## appfuse
+* appfuse-light-all-1.8.2.zip
+* 以前的java运维工程appfuse
